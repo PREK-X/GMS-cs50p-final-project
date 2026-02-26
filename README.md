@@ -1,6 +1,6 @@
 # GYM MANAGEMENT SYSTEM
 
-#### Video Demo: https://www.youtube.com/watch?v=a6CQMsBDMP4
+#### Video Demo: https://youtu.be/fpPn1SNyzU0
 
 #### Description:
 

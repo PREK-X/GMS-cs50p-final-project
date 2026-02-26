@@ -319,7 +319,7 @@ def delete_member():
                             "renew date": row["renew date"],
                         }
                     )
-                    
+
     except FileNotFoundError:
         return "No Member Exist"
 
